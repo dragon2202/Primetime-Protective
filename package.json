@@ -12,5 +12,7 @@
   "devDependencies": {
     "nodemon": "^2.0.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "animate.css": "^3.7.2"
+  }
 }
